@@ -2,4 +2,9 @@ body{
     text-align: center;
     margin-left: 350px;
     margin-right: 350px;
+    background-image: linear-gradient(to bottom left, rgb(049, 085, 164), rgb(255, 181, 017), rgb(195, 067, 066), rgb(0, 173, 074), rgb(255, 255, 255));
+}
+
+h1, p{
+    font-family: cursive;
 }
